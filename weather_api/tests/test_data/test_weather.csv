@@ -1,0 +1,14 @@
+event_start,belief_horizon,sensor,event_value
+2024-02-14 12:00:00,2,temperature,16.0
+2024-02-14 12:00:00,1,temperature,17.0
+2024-02-14 12:00:00,3,wind_speed,4.0
+2024-02-14 12:00:00,1,irradiance,250.0
+2024-02-15 12:00:00,12,temperature,16.0
+2024-02-15 18:00:00,18,temperature,17.0
+2024-02-16 00:00:00,24,temperature,18.0
+2024-02-15 12:00:00,12,wind_speed,3.5
+2024-02-15 18:00:00,18,wind_speed,4.0
+2024-02-16 00:00:00,24,wind_speed,4.5
+2024-02-15 12:00:00,12,irradiance,100.0
+2024-02-15 18:00:00,18,irradiance,250.0
+2024-02-16 00:00:00,24,irradiance,300.0
